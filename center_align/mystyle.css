@@ -1,0 +1,22 @@
+#parent
+{
+    border: 3px solid green;
+    height: 100vh;
+    width: 100%;
+    display: inline-block;
+}
+
+.child
+{
+    border: 2px solid red;
+    display: inline-block;
+    height: 40px;
+    width: 90px;
+    
+
+}
+#c1
+{
+    margin-top: 50vh;
+    margin-left: 12cm;
+}
